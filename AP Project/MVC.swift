@@ -25,8 +25,6 @@ struct UnitCard: View {
                     Label(health, systemImage : "heart.fill")
                     
                     Label(movement, systemImage : "shoeprints.fill")
-                    
-//                    Label(defense, systemImage : "shield.lefthalf.filled")
 
                     if (defense == "10") {
                         Label(defense, systemImage : "shield.righthalf.filled")

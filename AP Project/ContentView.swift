@@ -9,7 +9,6 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        //Text("help")
         VStack {
             Text("AOW 3 Units")
                 .font(.largeTitle)
