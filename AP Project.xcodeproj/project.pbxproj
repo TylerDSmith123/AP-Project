@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A78CC02B2A15ACC000C6EB77 /* MVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A78CC02A2A15ACC000C6EB77 /* MVC.swift */; };
 		A7A5E82629BB7CC600D4020D /* AP_ProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7A5E82529BB7CC600D4020D /* AP_ProjectApp.swift */; };
 		A7A5E82829BB7CC600D4020D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7A5E82729BB7CC600D4020D /* ContentView.swift */; };
 		A7A5E82A29BB7CC800D4020D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7A5E82929BB7CC800D4020D /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A78CC02A2A15ACC000C6EB77 /* MVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVC.swift; sourceTree = "<group>"; };
 		A7A5E82229BB7CC600D4020D /* AP Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AP Project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7A5E82529BB7CC600D4020D /* AP_ProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AP_ProjectApp.swift; sourceTree = "<group>"; };
 		A7A5E82729BB7CC600D4020D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 				A7A5E82729BB7CC600D4020D /* ContentView.swift */,
 				A7A5E82929BB7CC800D4020D /* Assets.xcassets */,
 				A7A5E82B29BB7CC800D4020D /* Preview Content */,
+				A78CC02A2A15ACC000C6EB77 /* MVC.swift */,
 			);
 			path = "AP Project";
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A78CC02B2A15ACC000C6EB77 /* MVC.swift in Sources */,
 				A7A5E82829BB7CC600D4020D /* ContentView.swift in Sources */,
 				A7A5E82629BB7CC600D4020D /* AP_ProjectApp.swift in Sources */,
 			);
